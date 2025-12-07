@@ -22,6 +22,6 @@ function srednia_wazona($wartosci, $wagi) {
 
 	}
 	$wartosci = [2, 4, 6];
-	$wagi = [8, 2];
+	$wagi = [9, 1];
 	
 	echo srednia_wazona(&wartosci, &wagi);
